@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int mex=100000001;
-long long int arr[100000001]={0};
+int mex=10000001;
+long long int arr[10000001]={0};
 
 int main()
 {
